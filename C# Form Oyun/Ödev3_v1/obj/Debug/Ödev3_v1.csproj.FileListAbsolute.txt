@@ -1,0 +1,18 @@
+C:\Users\Erdem-PC\Desktop\C# uygulama\Ödev3_v1\Ödev3_v1\bin\Debug\Ödev3_v1.exe.config
+C:\Users\Erdem-PC\Desktop\C# uygulama\Ödev3_v1\Ödev3_v1\bin\Debug\Ödev3_v1.exe
+C:\Users\Erdem-PC\Desktop\C# uygulama\Ödev3_v1\Ödev3_v1\bin\Debug\Ödev3_v1.pdb
+C:\Users\Erdem-PC\Desktop\C# uygulama\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.csprojResolveAssemblyReference.cache
+C:\Users\Erdem-PC\Desktop\C# uygulama\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.Form1.resources
+C:\Users\Erdem-PC\Desktop\C# uygulama\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.Properties.Resources.resources
+C:\Users\Erdem-PC\Desktop\C# uygulama\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.csproj.GenerateResource.Cache
+C:\Users\Erdem-PC\Desktop\C# uygulama\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.exe
+C:\Users\Erdem-PC\Desktop\C# uygulama\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.pdb
+C:\Users\yakup\Desktop\Ödev3_v1\Ödev3_v1\bin\Debug\Ödev3_v1.exe.config
+C:\Users\yakup\Desktop\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.exe
+C:\Users\yakup\Desktop\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.pdb
+C:\Users\yakup\Desktop\Ödev3_v1\Ödev3_v1\bin\Debug\Ödev3_v1.exe
+C:\Users\yakup\Desktop\Ödev3_v1\Ödev3_v1\bin\Debug\Ödev3_v1.pdb
+C:\Users\yakup\Desktop\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.Form1.resources
+C:\Users\yakup\Desktop\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.Properties.Resources.resources
+C:\Users\yakup\Desktop\Ödev3_v1\Ödev3_v1\obj\Debug\Ödev3_v1.csproj.GenerateResource.Cache
